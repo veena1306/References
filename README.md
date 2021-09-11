@@ -12,3 +12,5 @@
       4. References operate on objects, so no dereferencing is needed.
                                            
 # lvalue vs Rvalue References :- 
+     1. lvalues are variables with memory.
+     2  rvalues are variables without memory.
